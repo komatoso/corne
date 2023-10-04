@@ -46,10 +46,10 @@
 // | SHFT |     |     |     |     |     |   |  [  |  ]  |  >  |     | Ç   |  ª  |
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
-   &kp  TAB    &kp RA(N1)  &kp RA(N2)  &kp RA(N3)  &kp DLLR  &kp PRCNT  |   &kp CARET      &kp AMPS      &kp LS(N8)  &kp LPAR  &kp RPAR   &kp LGUI
-   &kp LSHFT   &kp EQUAL  &kp MINUS  &trans     &trans    &trans     |   &kp RA(SQT)    &kp RA(BSLH)  &kp LT     &trans    &kp BSLH   &kp GRAVE
-   &kp LCTRL   &trans     &trans     &trans     &trans    &trans     |   &kp RA(LBKT)   &kp RA(RBKT)  &kp GT     &trans    &kp PIPE   &kp TILDE
-                    	                  &kp DEL      &kp SPACE    &trans       |   &trans          &kp RET        &kp RALT
+   &kp  TAB    &kp RA(N1)  &kp RA(N2)  &kp RA(N3)  &kp DLLR  &kp PRCNT     &kp CARET      &kp AMPS      &kp LS(N8)  &kp LPAR  &kp RPAR   &kp LGUI
+   &kp LSHFT   &kp EQUAL  &kp MINUS  &trans     &trans    &trans        &kp RA(SQT)    &kp RA(BSLH)  &kp LT     &trans    &kp BSLH   &kp GRAVE
+   &kp LCTRL   &trans     &trans     &trans     &trans    &trans        &kp RA(LBKT)   &kp RA(RBKT)  &kp GT     &trans    &kp PIPE   &kp TILDE
+                    	                  &kp DEL      &kp SPACE    &trans          &trans          &kp RET        &kp RALT
                         >;
                 };
         };
